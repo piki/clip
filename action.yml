@@ -1,0 +1,5 @@
+name: 'Clip'
+description: 'Talking Paperclip for GitHub Actions'
+runs:
+  using: 'node12'
+  main: 'index.js'
